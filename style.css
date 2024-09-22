@@ -1,0 +1,22 @@
+.one {
+    text-align: center;
+    font-size: 100px;
+    color: blue;
+    
+}
+body {
+    background-color: pink;
+}
+.two {
+    font-size: 80px;
+    text-align: center;
+}
+.three {
+    font-style: italic;
+    font-size: 100px;
+}
+.four {
+    outline: auto;
+    outline-color: black;
+    
+}
